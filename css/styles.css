@@ -50,7 +50,7 @@ body {
     color: #2e2f42;
 }
 
-.menu-contacts:hover
+.menu-contacts:hover,
 .menu-contacts:focus{
     color: #404bbf;
 }
