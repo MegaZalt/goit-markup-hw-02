@@ -88,7 +88,22 @@ body {
     font-size: 16px;
 }
 
-.wrap-pic {
-    background-color: #F4F4FD;
+.cellar {
+    background-color: #2e2f42;
 }
 
+.cellar-logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+
+.cellar-text {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #F4F4FD;
+}
