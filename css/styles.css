@@ -29,31 +29,6 @@ body {
     color: #404bbf;
 }
 
-.menu-portfolio {
-    font-weight: 500;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    font-size: 16px;
-    color: #2e2f42;
-}
-
-.menu-portfolio:hover,
-.menu-portfolio:focus{
-    color: #404bbf;
-}
-
-.menu-contacts {
-    font-weight: 500;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    font-size: 16px;
-    color: #2e2f42;
-}
-
-.menu-contacts:hover,
-.menu-contacts:focus{
-    color: #404bbf;
-}
 
 
 
